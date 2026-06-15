@@ -17,9 +17,6 @@ https://www.tinkercad.com/things/16a0WbZxaBb-r9fh2f-gazszintmero?sharecode=O5xao
 
 A projekt célja eredetileg klórgázszint mérésére szolgáló műszer lett volna, de nem találtam meg a megfelelő modult, így egy sima gázszintmérőt építettem meg a Tinkercad-ben. 
 
-Őszinte megjegyzés: Pályamódosítóként, hozzáértő tapasztalat hiányában igénybe vettem a Gemini segítségét a projekt megvalósításához, viszont így is hibákba ütköztem, amiket sikerült megoldani és dokumentáltam is. 
-
- 
 
 Alkatrészek listája: 
 
